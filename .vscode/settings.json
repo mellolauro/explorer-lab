@@ -33,5 +33,14 @@
     }
   },
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "window.zoomLevel": -1
+  "window.zoomLevel": -1,
+  "cSpell.words": [
+    "adicionado",
+    "cardtype",
+    "Cartao",
+    "Expirion",
+    "FULANO",
+    "imask",
+    "rocketseat"
+  ]
 }
